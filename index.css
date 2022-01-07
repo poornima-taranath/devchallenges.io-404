@@ -1,0 +1,95 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgba(255, 255, 255);
+}
+
+h2 {
+  position: absolute;
+  left: 77px;
+  top: 40px;
+  font-family: 'Inconsolata', monospace;
+  font-family: 'Space Mono', monospace;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 25px;
+  letter-spacing: -0.08em;
+  text-transform: uppercase;
+
+  color: #333333;
+}
+
+.scarecrow {
+  position: absolute;
+  left: 5.35%;
+  right: 57.21%;
+  top: 265px;
+  bottom: 37.11%;
+  width: 539.22px;
+  height: 414.25px;
+}
+
+.news {
+  position: absolute;
+  width: 586px;
+  height: 190px;
+  left: 735px;
+  top: 265px;
+  font-family: 'Space Mono',monospace;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 64px;
+  line-height: 95px;
+  letter-spacing: -0.035em;
+  color: #333333;
+}
+
+.desc {
+  position: absolute;
+  width: 381px;
+  height: 108px;
+  left: 736px;
+  top: 491px;
+
+  font-family: 'Space Mono',monospace;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: -0.035em;
+
+  color: #4f4f4f;
+}
+
+button {
+  position: absolute;
+  width: 216px;
+  height: 68px;
+  left: 740px;
+  top: 663px;
+  background: #333333;
+  color: aliceblue;
+  border-radius: 2rem;
+}
+
+.creator{
+    position: absolute;
+width: 287px;
+height: 17px;
+left: 577px;
+top: 850px;
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #BDBDBD;
+
+
+}
